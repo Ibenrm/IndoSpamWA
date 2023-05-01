@@ -218,7 +218,6 @@ def Spam():
 	except NameError:
 		print
 		print(M+'Pilih Menu Harus Berupa Angka, Bukan Huruf !')
-	        time.sleep(1)
 		sys.exit()
 			
 if __name__ == '__main__':
